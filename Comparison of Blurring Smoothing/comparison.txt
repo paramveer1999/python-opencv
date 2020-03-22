@@ -1,0 +1,7 @@
+1-->Filters are the most basic operations that can be executed on images to extract information.
+
+2-->One of its type is blurring/smoothing the image. Blurring an image is the first step to reducing the size of images without changing their appearance too much and blurring removes high-frequency components from the image, it helps in avoiding aliasing. 
+
+3-->Blurring can be thought of as a low-pass filtering operation, and is accomplished using a simple intuitive kernel matrix. 
+
+4-->In this proposed model I plan to achieve comparison of various filter algorithms based on the output blur produced by them for the same input image. 
